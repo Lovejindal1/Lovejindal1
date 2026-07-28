@@ -28,7 +28,6 @@ I enjoy building scalable backend systems and production-ready applications usin
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
