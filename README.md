@@ -13,7 +13,7 @@ I enjoy building scalable backend systems and production-ready applications usin
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 💻 Backend Developer
+- 💻 Web Development Developer
 - 🌱 Currently learning Distributed Systems & System Design
 - ☁️ AWS EC2 & Amazon RDS
 - 📨 RabbitMQ
