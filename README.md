@@ -95,3 +95,8 @@ A scalable, distributed Airline Booking backend built using modern microservices
 - **LinkedIn:** [linkedin.com/in/love-kumar-jindal](https://www.linkedin.com/in/love-kumar-jindal/)
 - **GitHub:** [github.com/Lovejindal1](https://github.com/Lovejindal1)
 
+<div align="center">
+
+Made with ❤️ by [Love Jindal](https://github.com/Lovejindal1)
+
+</div>
